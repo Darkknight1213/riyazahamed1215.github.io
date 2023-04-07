@@ -22,6 +22,10 @@ h3 {
   background-color: #CDF0EA;
   padding-top: 100px;
 }
+.bottom-container {
+  background-color: #CDF0EA;
+}
+
 .top-cloud {
   position: relative;
   left: 250px;
@@ -30,8 +34,8 @@ h3 {
   position: absolute;
 }
 .me {
-  width: 200px;
-  height: 200px;
+  width: 300px;
+  height: 300px;
 }
 .sk {
   width: 300px;
